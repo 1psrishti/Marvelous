@@ -1,16 +1,13 @@
-# marvelous
+# Marvelous
 
-A new Flutter application.
+<br>
 
-## Getting Started
+This app calls the official Marvel API and displays the info about the characters, comics, series and events on cards.  
 
-This project is a starting point for a Flutter application.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+![alt](https://github.com/1psrishti/Marvelous/blob/master/screenshots/screenrecording.gif?raw=true) 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###### I hate 3D Man he's ugly. 
